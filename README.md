@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mehmetkutuks" target="blank"><img src="https://img.shields.io/twitter/follow/mehmetkutuks?logo=twitter&style=for-the-badge" alt="mehmetkutuks" /></a> </p>
 
-- 🔭 I’m currently working on [cross4solution](https://www.cross4solution.com/)
+- 🔭 I’m currently working on [Cross4Solution Technology](https://www.cross4solution.com/)
 
 - 🌱 I’m currently learning **Node.js**
 
